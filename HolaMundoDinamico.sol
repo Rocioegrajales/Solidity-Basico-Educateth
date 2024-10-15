@@ -1,0 +1,16 @@
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.24;
+
+contract HolaMundoDinamico {
+    string Saludo_d = "Hola Mundo Dinamico";
+    string public Saludo_e = "Saludo inicial en el despliegue";
+
+    function leerSaludo() public view returns (string memory) {
+        return Saludo_d;
+    }
+
+    function guardarSaludo(string memory _nuevoSaludo) public {
+        Saludo_d = _nuevoSaludo;
+    }
+    
+}
