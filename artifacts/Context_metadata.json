@@ -19,7 +19,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"EducatethContactToken_flattened.sol": "Context"
+			"EmailEducatethNFT_flattened.sol": "Context"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,12 +33,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"EducatethContactToken_flattened.sol": {
-			"keccak256": "0x021e8707b2d5ae091f9ecab14067a438dd025955e70c9fa66e5d45e5cd76fd46",
+		"EmailEducatethNFT_flattened.sol": {
+			"keccak256": "0xe299f05b935bc3933163a5d15a5a1dcd7c8344cfd4353aa93b2abed4043827e1",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3412d74adc3e12f3f932834f31742d661e5e5b2d697f9032b8f90e40276b8960",
-				"dweb:/ipfs/QmQGpxtRhPBrKbpUpRoz89kxR9NsCwN7JJB66BMrBYcBPY"
+				"bzz-raw://10ed0df14d466ce69521040f589f67d5dff3d8ceb071145a674a6ae16c490e17",
+				"dweb:/ipfs/QmWg6SZiuQL3UJS57NuauNTyzzCdn42wbFPwLqWM7684SM"
 			]
 		}
 	},
