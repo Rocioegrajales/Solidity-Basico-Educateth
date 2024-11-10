@@ -192,7 +192,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ERC20_flattened.sol": "IERC721Errors"
+			"EducatethContactToken_flattened.sol": "IERC721Errors"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -206,12 +206,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"ERC20_flattened.sol": {
-			"keccak256": "0xf6567e5de30004b32aab94b83d0048546aa994323bcb4a97ec11d240d9ed239c",
+		"EducatethContactToken_flattened.sol": {
+			"keccak256": "0x021e8707b2d5ae091f9ecab14067a438dd025955e70c9fa66e5d45e5cd76fd46",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1d12286a588c4a3ac00f3997cef21190e1a5c37b52577fe93c829e411b20ff87",
-				"dweb:/ipfs/QmRTMhpAJmNsGV3frEtYQBeMXmUre5Aai3uT4f94Sv8Tp4"
+				"bzz-raw://3412d74adc3e12f3f932834f31742d661e5e5b2d697f9032b8f90e40276b8960",
+				"dweb:/ipfs/QmQGpxtRhPBrKbpUpRoz89kxR9NsCwN7JJB66BMrBYcBPY"
 			]
 		}
 	},
